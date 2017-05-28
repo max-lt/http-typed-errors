@@ -1,6 +1,6 @@
 {
   "name": "http-typed-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typed https errors for express",
   "main": "index.js",
   "scripts": {
